@@ -1,8 +1,14 @@
 import './App.css';
+import Header from './components/Header'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Meme from './components/Meme';
 
 function App() {
   return (
-    <h1>Hello World!</h1>
+      <div className='container-fluid'>
+        <Header />
+        <Meme />
+      </div>
   )
 }
 

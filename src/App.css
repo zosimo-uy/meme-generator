@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav--meme{
+    background: linear-gradient(45deg, #0074E4 0%, #8A2BE2 100%);
+    color: white;
+}
+
+.form{
+    margin-bottom: 17px;
+}
+
+
+.form-control{
+    font-family: "Karla", sans-serif;
+    text-indent: 7px;
+}
+
+.form--button{
+    font-family: "Karla", sans-serif;
+    border-radius: 5px;
+    background: linear-gradient(90.41deg, #0074E4 1.14%, #8A2BE2 100%);
+}
+
+.meme--text{
+    text-shadow:
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000,
+        0 2px 0 #000,
+        2px 0 0 #000,
+        0 -2px 0 #000,
+        -2px 0 0 #000,
+        2px 2px 5px #000;
+}
