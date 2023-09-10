@@ -1,7 +1,7 @@
 {
   "name": "meme-generator",
   "version": "0.1.0",
-  "homepage": "https://pinkdollar123.github.io/meme-generator",
+  "homepage": "https://zosimo-uy.github.io/meme-generator",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
